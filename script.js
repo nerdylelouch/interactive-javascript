@@ -5,7 +5,7 @@ const gif = document.querySelector(".gif");
 const btnGroup = document.querySelector(".btn-group");
 
 yesBtn.addEventListener("click", () => {
-  question.innerHTML = "Yay, thanks chubbi! 🫶😊";
+  question.innerHTML = "Yay, thankss🫶😊";
   gif.src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTk4cGcxY3c4ZzEzaWN5ZHZhejM3dzhyMGgxcHY0M2NzN2o5Y3RleiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zTQQPJXn1j8Jy/giphy.gif";
   btnGroup.style.display = "none";  // Hide the buttons after clicking "Yes"
 });
