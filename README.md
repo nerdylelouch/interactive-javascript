@@ -21,3 +21,6 @@ You can modify the behavior by adjusting the CSS styles or the JavaScript logic 
 
 ## License
 This project is open-source and available under the MIT License.
+
+## Cheeky Use Case
+You can definitely use this as a fun way to apologise to your significant other, crush, or anyone you’ve got some explaining to do with. Just have the button "move away" as you try to get them to say "Yes"! It's a playful way to lighten the mood and add a bit of humor to your day. 
